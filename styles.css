@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+
+}
+
+#top-section {
+    background-image: url(images/brønderslev.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 340px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#top-title {
+    background-color: ;
+}
